@@ -15,7 +15,7 @@ Gameover:
 
 Limit:
 - Can only take manual coordinate input at this stage (can be cumbersome if too many ships)
-- Playing board can only be
+- Playing board can only be either 7x7, 8x8, 9x9 big at this stage
 - Ships can only be 1-dimensional at this stage (1x2, 1x3, 1x4...)
 - Computer AI for (hide) mode is lacking in difficulty
 
